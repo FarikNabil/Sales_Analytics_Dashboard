@@ -1,23 +1,34 @@
-Customer Segmentation & Marketing Strategy Dashboard with Power BI
+Sales Analytics Dashboard with Python, MySQL & Power BI
 
 Aug 2025 - Aug 2025Aug 2025 - Aug 2025
+I recently completed a sales data analytics project — from raw data processing to building an interactive dashboard for business insights.
 
-Designed and developed an end-to-end customer segmentation solution to drive data-driven marketing actions:
+💡 Project Workflow:
+1. Data Preparation
+o Imported a sales dataset (.CSV) from Kaggle
+o Cleaned and transformed data using Python (Pandas)
 
-• Data Preparation – Cleaned and pre-processed transactional data, engineered features such as spending, frequency, and return rates.
+2. Database Management
+o Stored structured data in MySQL
+o Created tables and executed SQL queries for analysis
 
-• Clustering Analysis – Applied K-Means clustering with proper feature normalization to reveal distinct customer groups based on buying behavior.
+3. Visualization
+o Connected the database directly to Power BI
+o Designed an interactive dashboard with month/day slicers and product category analysis
 
-• Why K-Means? – Chosen for its efficiency with large datasets, ability to create clear non-overlapping segments, and ease of interpretation for business stakeholders. This method ensures meaningful and actionable customer groups.
+📊 Tools & Skills:
+• Python (Pandas, Data Cleaning, Data Manipulation)
+• MySQL (Data Storage, Querying, Integration)
+• Power BI (Data Modeling, DAX, Visualization, Dashboard Design)
 
-• Business Insights – Segments were classified into actionable categories: High Value, Growth Potential, and At-Risk, enabling precision in targeting.
+🔍 Key Insights:
+• Peak Sales Month: December showed the highest sales volume, suggesting strong holiday season demand.
+• Best-Selling Category: Beverages consistently led the sales, indicating high repeat purchases.
+• Day-of-Week Trend: Sales were significantly higher on weekends, suggesting increased customer activity during leisure time.
 
-• Interactive Power BI Dashboard – Crafted a 4-page interactive dashboard featuring cluster profiles, strategic recommendations, and insights with dynamic filters.
+🎯 Outcome:
+An interactive dashboard enabling business stakeholders to quickly explore sales trends, monitor performance, and identify growth opportunities.
 
-• Automation & Reproducibility – Implemented clean and modular Python scripts for data processing and cluster model pipeline
-
-Impact: Delivered a solution that improves targeting precision, enhances customer retention strategies, and supports scalable, data-informed marketing decisions.
-
-Big Thanks to Shriyash Jagtap for the dataset from the Kaggle https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis
+Thank you for the dataset from https://www.kaggle.com/datasets/ihelon/coffee-sales
 
 Skills: Python (Programming Language) · MySQL · Microsoft Power BI
